@@ -1,3 +1,3 @@
-# knote-java
+# notes-get
 
-Simple Spring Boot app to take notes
+Simple Spring Boot app to fetch notes
